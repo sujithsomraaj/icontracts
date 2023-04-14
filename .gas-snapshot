@@ -1,0 +1,8 @@
+PredictorTest:testAddAgain() (gas: 8060)
+PredictorTest:testAddAgainAndAgain() (gas: 10259)
+PredictorTest:testAddAgainAndAgainAndAgain() (gas: 8039)
+PredictorTest:testAddAgainAndAgainAndAgainAndAgain() (gas: 10259)
+PredictorTest:testSimpleAdd() (gas: 138583)
+PredictorTest:testSimpleAddAgain() (gas: 138584)
+PredictorTest:testSimpleAddAgainAndAgain() (gas: 138516)
+PredictorTest:testSimpleAddAgainAndAgainAndAgain() (gas: 138496)
