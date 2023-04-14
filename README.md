@@ -1,7 +1,7 @@
 
 # Intelligent Contracts
 
-![Pepe Rules The World](/images/pepe-rules.jpeg)
+![Pepe Rules The World](https://github.com/sujithsomraaj/icontracts/blob/main/images/pepe-rules.jpeg)
 
 ## Introduction
 
@@ -31,13 +31,13 @@ Initially, the first operation takes nearly 138584 GAS to add and store the valu
 
 But the second operation took just 8060 GAS to compute the transaction, which is nearly 96% less costly than a real operation, provided I took no code optimization into account.
 
-[Graph Of Gas Efficiency](/images/line-graph.png)
+![Graph Of Gas Efficiency](/images/line-graph.png)
 
 ### Proof Of Intelligence
 
 This contract is intelligent enough to know that, a + b = b + a (a simple high school mathematical theorem), hence to calculate b + a, it never computed the result, instead just thrown the result from cache, which almost cost 8060 GAS even for the first user.
 
-[Graph Of Intelligence](/images/intelligence-graph.svg)
+![Graph Of Intelligence](/images/intelligence-graph.svg)
 
 ## Roadmap
 
@@ -71,7 +71,7 @@ forge test
 forge snapshot
 ```
 
-[Gas Snapshot Example](/images/gas-snapshots.png)
+![Gas Snapshot Example](/images/gas-snapshots.png)
 
 ## Contribution guidelines
 
